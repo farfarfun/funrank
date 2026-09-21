@@ -8,6 +8,16 @@
 pip install funrank
 ```
 
+## 最小示例
+
+当前版本是用于保留 PyPI 包名的占位包，可通过版本信息确认安装成功：
+
+```python
+import funrank
+
+print(funrank.__version__)
+```
+
 ---
 
 ## 关于 farfarfun
