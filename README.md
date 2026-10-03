@@ -2,6 +2,10 @@
 
 占位仓库，尚无实际功能代码。发布这个空壳版本只是为了在 PyPI 上保留 `funrank` 这个包名，避免被无关项目抢注；具体功能会在之后陆续补充。
 
+## 环境要求
+
+- Python >= 3.10
+
 ## Install
 
 ```bash
@@ -16,6 +20,13 @@ pip install funrank
 import funrank
 
 print(funrank.__version__)
+```
+
+## 本地开发
+
+```bash
+uv sync
+uv run pytest
 ```
 
 ---
