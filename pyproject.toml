@@ -22,6 +22,7 @@ email = "niuliangtao@qq.com"
 name = "farfarfun"
 email = "farfarfun@qq.com"
 [project.urls]
+Homepage = "https://pypi.org/project/funrank/"
 Organization = "https://github.com/farfarfun"
 Repository = "https://github.com/farfarfun/funrank"
 Releases = "https://github.com/farfarfun/funrank/releases"
